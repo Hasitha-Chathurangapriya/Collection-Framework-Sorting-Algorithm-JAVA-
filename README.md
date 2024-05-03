@@ -1,4 +1,4 @@
-# Collection-Framework-Sorting-Algorithm [JAVA]
+# Collection-Framework & Sorting-Algorithm [JAVA]
 
 [Collection-Framework-Sorting-Algorithm.pdf](https://github.com/Hasitha-Chathurangapriya/Collection-Framework-Sorting-Algorithm-JAVA-/files/15196857/Collection-Framework-Sorting-Algorithm.pdf)
 
